@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CHN" size="900.000000 359.898468" />
+    <ImageTarget name="HSO" size="900.000000 359.898468" />
+    <ImageTarget name="HPO" size="900.000000 359.898468" />
+    <ImageTarget name="HCO" size="900.000000 359.898468" />
+    <ImageTarget name="NO" size="600.000000 359.898468" />
+    <ImageTarget name="NH" size="600.000000 359.898468" />
+    <ImageTarget name="CO" size="600.000000 359.898468" />
+    <ImageTarget name="HO" size="600.000000 359.898468" />
+  </Tracking>
+</QCARConfig>
